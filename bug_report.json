@@ -1,1 +1,9 @@
-
+{
+"ID" : "B1",
+  "Title" : "(ADD WIDGET) button is not working on device",
+  "Severiyt" : "Major",
+  "Priority" : "Medium",
+  "Enviroment" : "HONOR 30i, Android 10",
+  "Precondition" : "clear desktop",
+  "STR" : "1)Open app. 2)Click (ADD WIDGET) button",
+}
